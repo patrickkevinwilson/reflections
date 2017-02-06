@@ -1,0 +1,21 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git init
+
+initializes an empty repository
+
+we need to do this
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+an area where you can set up files to be added in the commit before you actually committ them
+
+working directory files are not in repository 
+
+repository are files that are under source
+
+staging directory are those files ready to committed from the working dir
+
+
