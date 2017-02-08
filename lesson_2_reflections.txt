@@ -38,3 +38,13 @@ How do the diagrams help you visualize the branch structure?
 you are able to visualise the connections where branch begins, unreachable commits, what commits exist in one branch and not another.  also useful to think about where each commit is establish where the head is etc.
 
 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+a new commit is created that has parents from the branches -
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros = alot of tedious work can be eliminated
+
+cons = some mistackes could be made but you need to test and verify
