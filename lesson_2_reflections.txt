@@ -19,3 +19,15 @@ repository are files that are under source
 staging directory are those files ready to committed from the working dir
 
 
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+add each change to the staging area, then commit it  then move the next change in and commit
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+if you want to make a major change but still want a working version in the meantime, or want some specialised version
+while preserving the main codebase that you might not want have changes incorporated in yet.
+branches allow you to make those changes to the side while still having a working stable version.
